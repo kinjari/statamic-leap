@@ -1,5 +1,5 @@
 {
-    "name": "jasonbaciulis/leap",
+    "name": "kinjari/statamic-leap",
     "extra": {
         "statamic": {
             "name": "Leap",
