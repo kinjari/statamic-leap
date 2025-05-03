@@ -31,4 +31,4 @@ export_paths:
   - tailwind.config.typography.js
   - vite.config.js
 dependencies:
-  kinjari/statamic-jobs: ^1.5
+  kinjari/statamic-jobs: ^1.6
